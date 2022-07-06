@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/atg_task_3/static/css/main.41cca21d.css",
+    "main.js": "/atg_task_3/static/js/main.30e0dc44.js",
+    "static/media/tab.png": "/atg_task_3/static/media/tab.5215dff016d71dd50ae2.png",
+    "static/media/12.png": "/atg_task_3/static/media/12.1f36bb9276853f5ee4c0.png",
+    "static/media/4.png": "/atg_task_3/static/media/4.a2b88dd7c69ed26bad68.png",
+    "static/media/14.png": "/atg_task_3/static/media/14.a097d14f0d97e72c07ca.png",
+    "static/media/2.png": "/atg_task_3/static/media/2.7ab108bdf702e52d05db.png",
+    "static/media/1.png": "/atg_task_3/static/media/1.31742997809b4a71f0f2.png",
+    "static/media/13.png": "/atg_task_3/static/media/13.d4ad151be6f1b1001134.png",
+    "static/media/5.png": "/atg_task_3/static/media/5.0db5502e10ffc9f95c73.png",
+    "static/media/3.png": "/atg_task_3/static/media/3.e1fbdcb093d148d0c4d0.png",
+    "static/media/6.png": "/atg_task_3/static/media/6.5f7f048ebf6cae61a59f.png",
+    "static/media/9.png": "/atg_task_3/static/media/9.683c1946dc3e456120bf.png",
+    "static/media/8.png": "/atg_task_3/static/media/8.351cc80cf46ea399661f.png",
+    "static/media/10.png": "/atg_task_3/static/media/10.fb313ef81a6f97dc713b.png",
+    "static/media/11.png": "/atg_task_3/static/media/11.f43cb0271bd95a3047ab.png",
+    "static/media/bread.png": "/atg_task_3/static/media/bread.b9e4ec54131668b81f2f.png",
+    "static/media/redbox.png": "/atg_task_3/static/media/redbox.0dd9fc639d051ac4e547.png",
+    "static/media/15.png": "/atg_task_3/static/media/15.e9e087f3640c36e03f58.png",
+    "static/media/bg.jpg": "/atg_task_3/static/media/bg.517d8641d678eb8e3fc8.jpg",
+    "static/media/7.png": "/atg_task_3/static/media/7.e2b53c772192457b11d0.png",
+    "static/media/nut.png": "/atg_task_3/static/media/nut.5845a18d030ff5a46660.png",
+    "static/media/slider.svg": "/atg_task_3/static/media/slider.04644435d970d8420b09810bb119be89.svg",
+    "index.html": "/atg_task_3/index.html",
+    "main.41cca21d.css.map": "/atg_task_3/static/css/main.41cca21d.css.map",
+    "main.30e0dc44.js.map": "/atg_task_3/static/js/main.30e0dc44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cca21d.css",
+    "static/js/main.30e0dc44.js"
+  ]
+}
