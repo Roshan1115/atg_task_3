@@ -446,3 +446,43 @@
   right: 2rem;
 }
 /* ..............end last...................  */
+
+
+
+
+
+
+@media (max-width: 800px) {
+  .app{
+    flex-direction: column-reverse;
+  }
+  .left{
+    width: 100%;
+    height: 40%;
+    flex-direction: column-reverse;
+  }
+  .right{
+    width: 100%;
+    height: 60%;
+  }
+
+  .slider_container {
+    display: none;
+  }
+
+  .text_container{
+    height: 70%;
+  }
+
+  .message{
+    display: none;
+  }
+
+}
+
+@media (max-width: 600px)
+{
+  html{
+    font-size: 80%;
+  }
+}
